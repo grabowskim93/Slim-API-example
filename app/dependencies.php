@@ -1,5 +1,5 @@
 <?php
-// DIC configuration
+// DIC configurationn
 
 $container = $app->getContainer();
 
